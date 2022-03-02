@@ -1,0 +1,24 @@
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/example/jokesapp/BuildConfig.java
+ com.example.jokesapp.BuildConfig
+com/example/jokesapp/DataBindingTriggerClass.java
+ com.example.jokesapp.DataBindingTriggerClass
+com/example/jokesapp/BR.java
+ com.example.jokesapp.BR
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/example/jokesapp/databinding/ActivityMainBinding.java
+ com.example.jokesapp.databinding.ActivityMainBinding
+com/example/jokesapp/databinding/FragmentJokesBinding.java
+ com.example.jokesapp.databinding.FragmentJokesBinding
+com/example/jokesapp/DataBinderMapperImpl.java
+ com.example.jokesapp.DataBinderMapperImpl
+ com.example.jokesapp.DataBinderMapperImpl$InnerBrLookup
+ com.example.jokesapp.DataBinderMapperImpl$InnerLayoutIdLookup
+com/example/jokesapp/databinding/ItemJokeBinding.java
+ com.example.jokesapp.databinding.ItemJokeBinding
+com/example/jokesapp/databinding/FragmentJokesBindingImpl.java
+ com.example.jokesapp.databinding.FragmentJokesBindingImpl
